@@ -5,11 +5,6 @@
 #include <memory.h>
 #include <stdio.h>
 
-void unsigned_divide(
-            unsigned int dividend,
-            unsigned int divisor,
-            unsigned int *quotient,
-            unsigned int *remainder );
 
 int main(){
     bigbigint myint, myint2;
